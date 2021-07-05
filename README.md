@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @meyerstoken, a BEP20 BSC Token that has long term plans!  Read more about me at MeyersToken.com
+- 👋 Hi, to learn more about the Meyers Token Project, Read the WHITEPAPER.pdf and LAND DROP GUIDELINES.pdf Documents in this repository!
+
+Welcome to the Meyers Token Community!
 
 <!---
 meyerstoken/meyerstoken is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
