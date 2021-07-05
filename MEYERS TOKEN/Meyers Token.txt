@@ -1,0 +1,27 @@
+Contract ID: 0x5d0d52c464d7970af7f537c2963aa09fbaf6dde0
+
+www.MeyersToken.com
+
+BSCScan:  https://bscscan.com/token/0x5d0d52c464d7970af7f537c2963aa09fbaf6dde0
+
+Contract: https://bscscan.com/address/0x5d0d52c464d7970af7f537c2963aa09fbaf6dde0#code
+
+Poocoin: https://poocoin.app/tokens/0x5d0d52c464d7970af7f537c2963aa09fbaf6dde0
+
+PancakeSwap: https://exchange.pancakeswap.finance/#/swap?inputCurrency=BNB&outputCurrency=0x5d0d52c464d7970af7f537c2963aa09fbaf6dde0
+
+BoggedFinance: https://charts.bogged.finance/?token=0x5D0D52c464d7970aF7f537c2963Aa09Fbaf6DDE0
+
+Liquidity Lock: https://cryptexlock.me/pair/56/0x6c05036efE17Db4e0ad478C21189C8e48812311f
+
+Telegram: https://t.me/meyerstoken
+
+FB Page : https://fb.me/MeyersToken
+
+Instagram: @meyerstoken
+
+Twitter: @meyerstoken
+
+LinkedIn: https://www.linkedin.com/company/meyerstoken
+
+Discord: https://discord.gg/239X7fFfdj
