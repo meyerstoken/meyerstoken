@@ -1,5 +1,9 @@
 - 👋 Hi, to learn more about the Meyers Token Project, Read the WHITEPAPER.pdf and LAND DROP GUIDELINES.pdf Documents in this repository!
 
+Join our Discord: https://discord.gg/239X7fFfdj
+
+Website: https://meyerstoken.com/
+
 Welcome to the Meyers Token Community!
 
 <!---
